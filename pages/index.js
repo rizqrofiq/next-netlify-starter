@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Selamat Datang" />
         <p className="description">
-          Under Development
+          Situs ini masih dalam tahap pengembangan😊🙌
         </p>
       </main>
 
